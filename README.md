@@ -6,7 +6,11 @@ Installer file:
 
 ## Screenshot Preview
 
-![PixelDrop Screenshot](screenshot/Screenshot%202026-06-24%200404310.png)
+![PixelDrop Screenshot 1](screenshot/Screenshot%202026-06-24%200404310.png)
+
+![PixelDrop Screenshot 2](screenshot/Screenshot%202026-06-24%20040413.png)
+
+![PixelDrop Screenshot 3](screenshot/Screenshot%202026-06-24%20040337.png)
 
 ## What Is PixelDrop
 
